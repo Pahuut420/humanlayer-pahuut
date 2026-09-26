@@ -12,7 +12,7 @@ require (
 	github.com/gin-contrib/cors v1.7.6
 	github.com/gin-gonic/gin v1.10.1
 	github.com/google/uuid v1.6.0
-	github.com/humanlayer/humanlayer/claudecode-go v0.0.0-00010101000000-000000000000
+	github.com/humanlayer/humanlayer/claudecode-go v0.0.0-20260619032753-99abe673498c
 	github.com/mark3labs/mcp-go v0.37.0
 	github.com/mattn/go-sqlite3 v1.14.28
 	github.com/oapi-codegen/runtime v1.1.2
